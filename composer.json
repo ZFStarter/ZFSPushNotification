@@ -1,0 +1,28 @@
+{
+    "name": "naxel/zfs-push-notification",
+    "description": "ZFSPushNotification",
+    "keywords": [
+        "zf2",
+        "ZFStarter",
+        "ZFS",
+        "ZFSPushNotification"
+    ],
+    "homepage": "https://github.com/naxel/ZFSPushNotification",
+    "license": "BSD-3-Clause",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ZFStarterMail": "src"
+        },
+        "classmap" : ["Module.php"]
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    }
+}
