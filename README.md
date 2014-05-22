@@ -1,6 +1,11 @@
 ZFSPushNotification
 ===================
 
+[![Latest Stable Version](https://poser.pugx.org/zfstarter/zfs-push-notification/v/stable.png)](https://packagist.org/packages/zfstarter/zfs-push-notification)
+[![Total Downloads](https://poser.pugx.org/zfstarter/zfs-push-notification/downloads.png)](https://packagist.org/packages/zfstarter/zfs-push-notification)
+[![Latest Unstable Version](https://poser.pugx.org/zfstarter/zfs-push-notification/v/unstable.png)](https://packagist.org/packages/zfstarter/zfs-push-notification)
+[![License](https://poser.pugx.org/zfstarter/zfs-push-notification/license.png)](https://packagist.org/packages/zfstarter/zfs-push-notification)
+
 ZFSPushNotification
 
 ###Установка:
