@@ -1,5 +1,5 @@
 {
-    "name": "naxel/zfs-push-notification",
+    "name": "zfstarter/push-notification",
     "description": "ZFSPushNotification",
     "keywords": [
         "zf2",
