@@ -10,7 +10,7 @@ ZFSPushNotification
 ```json
 {
     "require-dev": {
-        "naxel/zfs-push-notification": "dev-master"
+        "zfstarter/zfs-push-notification": "dev-master"
     }
 }
 ```
